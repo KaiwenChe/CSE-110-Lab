@@ -2,7 +2,9 @@
 ## Brief Self-Introduction
 
 **Name:** Kaiwen Che
+
 **Major:** Cognitive Science w/ Specialization in Design and Interaction
+
 **I like:** Coding, PCs, and *Anime*
 
 > You can’t always see the light at the end of the tunnel, but if you keep moving you’ll get to a better place - Uncle Iroh
@@ -28,4 +30,5 @@
 - [ ] Get an internship in FAANG companies
 
 *Finally, a cute cat*
+
 ![This is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeVKKhcw5BVb33-sIFbVwBxpGvFjAORNkHA&usqp=CAU)
